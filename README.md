@@ -5,9 +5,14 @@ Este proyecto presenta el resumen y análisis con IA de actas del Consejo de Min
 # Problema
 
 
-
 # Proceso
+1. Encontrar las actas:
 
+2. Escribir el código en Google Colab y conectar al API de ChatGTP (Se paga por este API)
+
+3. Solicitar los analisis requeridos a través de un prompt
+
+4. Solicitar los resultados
 
 
 # Resultados
