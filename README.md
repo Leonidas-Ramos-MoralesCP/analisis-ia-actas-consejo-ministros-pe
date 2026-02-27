@@ -12,8 +12,17 @@ En ese contexto, nos planteamos las siguientes preguntas para el gobierno de Jos
 Aquí los 12 PDF: https://github.com/Leonidas-Ramos-MoralesCP/analisis-ia-actas-consejo-ministros-pe/blob/main/Actas%20Jer%C3%AD.zip 
 
 2.. Escribir el código en Google Colab y conectar al API de ChatGTP: 
-Aquí encontrará el script utilizado en el Google Colab y su conexión al API: https://github.com/Leonidas-Ramos-MoralesCP/analisis-ia-actas-consejo-ministros-pe/blob/main/analisis_actas_jos_jeri_conectado_a_chatgtp.py    
-Conviene recordar que el uso de la API requiere un pago a través de la plataforma de desarrolladores de ChatGPT. En este caso específico, se evidencia la rapidez con la que la IA realizó: (i) el ordenamiento cronológico de las fechas de las actas (columna fecha_acta); (ii) el resumen de cada acta (columna temas_tocados); (iii) la identificación de palabras clave (columna palabras_clave); (iv) la búsqueda del entorno noticioso externo (columna contexto_noticioso_externo); y (v) el análisis de discrepancias entre lo consignado en el acta y el contexto noticioso (columna analisis_discrepancia). No obstante, queda pendiente evaluar sistemáticamente la calidad y consistencia de los resultados producidos.
+Aquí encontrará el script utilizado en el Google Colab y su conexión al API: https://github.com/Leonidas-Ramos-MoralesCP/analisis-ia-actas-consejo-ministros-pe/blob/main/analisis_actas_jos_jeri_conectado_a_chatgtp.py   
+
+Conviene recordar que el uso de la API requiere un pago a través de la plataforma de desarrolladores de ChatGPT. En este caso específico, se evidencia la rapidez con la que la IA realizó: 
+
+(i) el ordenamiento cronológico de las fechas de las actas (columna fecha_acta); 
+(ii) el resumen de cada acta (columna temas_tocados); 
+(iii) la identificación de palabras clave (columna palabras_clave); 
+(iv) la búsqueda del entorno noticioso externo (columna contexto_noticioso_externo); y 
+(v) el análisis de discrepancias entre lo consignado en el acta y el contexto noticioso (columna analisis_discrepancia). 
+
+No obstante, queda pendiente evaluar sistemáticamente la calidad y consistencia de los resultados producidos.
 
 # Resultados
 
