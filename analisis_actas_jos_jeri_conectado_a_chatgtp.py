@@ -18,7 +18,7 @@ from google.colab import files
 import collections
 import re
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="AQUÍ PEGAR TU API_KEY") 
 MODELO_ELEGIDO = "gpt-4o"
 
 ## APROBACIÓN DEL MODELO Y CARGA
